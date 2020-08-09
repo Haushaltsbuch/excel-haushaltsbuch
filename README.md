@@ -1,5 +1,5 @@
 # Excel Haushaltsbuch
-Ein Haushaltsbuch ist ein nützliches Instrument, um die eigenen Finanzen im Blick zu halten. In dieser Excel-Vorlage wurden bereits Statistiken, Formeln und Kategorien für Einnahmen, sowie variable und regelmäßige Ausgaben definiert.
+Ein Haushaltsbuch ist ein nützliches Instrument, um die eigenen Finanzen im Blick zu halten. In dieser Excel/Calc-Vorlage wurden bereits Statistiken, Formeln und Kategorien für Einnahmen, sowie variable und regelmäßige Ausgaben definiert.
 
 ## Einnahmen
 * Gehalt (Netto)
@@ -20,4 +20,4 @@ Ein Haushaltsbuch ist ein nützliches Instrument, um die eigenen Finanzen im Bli
 * Sonstiges (Geschenke, Spenden)
 * Sonstiges
 
-Weitere Informationen zum Aufbau des Excel-Haushaltsbuch sind hier zu finden: https://www.haushaltsbuch.org/excel.html
+Weitere Informationen zum Aufbau des Excel/Calc-Haushaltsbuch sind hier zu finden: https://www.haushaltsbuch.org/excel.html
